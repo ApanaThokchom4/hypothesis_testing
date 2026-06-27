@@ -1,0 +1,7 @@
+
+A comapny claims the avergae packet weight is 100 g
+we collect a sample of 30 packets and get
+sample mean=97.5
+sample std=6
+sample size=30
+we want to test wheather the true mean is different from 100g
