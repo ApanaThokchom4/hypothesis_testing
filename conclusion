@@ -1,0 +1,3 @@
+The company claims the average packet weight is 100 g. Using a one-sample t-test, we obtained a p-value of approximately 0.03.
+Since this is less than 0.05,
+there is sufficient evidence to conclude that the true average packet weight is different from 100 g.
